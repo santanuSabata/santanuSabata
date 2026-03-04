@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋, I'm Santanu Sabata
 
-<!--
-**santanuSabata/santanuSabata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Developer  
+🚀 Specializing in WordPress, CodeIgniter, Next.js, React.js, Node.js  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me
+- 🔭 I’m currently working as a Freelancer
+- 🌱 Always learning new technologies
+- 💬 Ask me about Full-Stack Development
+- 📫 How to reach me: your@email.com
+
+---
+
+## 🛠 Tech Stack
+- Frontend: React.js, Next.js
+- Backend: Node.js, Express.js, CodeIgniter
+- CMS: WordPress
+- Database: MySQL, MongoDB
+
+---
+
+## 📊 GitHub Stats
+![Santanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=santanuSabata&show_icons=true&theme=radical)
