@@ -10,7 +10,9 @@
 - 🔭 I’m currently working as a Freelancer
 - 🌱 Always learning new technologies
 - 💬 Ask me about Full-Stack Development
-- 📫 How to reach me: your@email.com
+- 📫 How to reach me: sabatasantanu@email.com
+- - 📫 How to reach me: https://santanusabata.netlify.app
+
 
 ---
 
