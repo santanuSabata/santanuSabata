@@ -26,3 +26,21 @@
 
 ## 📊 GitHub Stats
 ![Santanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=santanuSabata&show_icons=true&theme=radical)
+
+
+Tech Stack
+AI and Agents
+
+Claude Code — AI coding assistant by Anthropic OpenAI Codex — AI code generation OpenClaw — AI agent platform Python programming language LangChain — LLM application framework
+Frontend and Full Stack
+
+TypeScript Next.js — React framework React — JavaScript UI library Tailwind CSS — utility-first CSS framework Flutter — cross-platform mobile framework shadcn/ui — React component library
+Backend and Data
+
+Node.js — JavaScript runtime PostgreSQL — relational database Redis — in-memory data store GraphQL — API query language
+DevOps and Infrastructure
+
+Docker — containerization platform Kubernetes — container orchestration Amazon Web Services — cloud computing Hetzner — cloud hosting GitHub Actions — CI/CD automation Coolify — self-hosted PaaS
+Compliance and Regulatory
+
+ISO 27001 — information security management ISO 13485 — medical device quality management EU MDR 2017/745 — European Medical Device Regulation GDPR — General Data Protection Regulation 
