@@ -19,19 +19,19 @@
 ## 💻 Tech Stack
 
 ### Frontend
--HTML5 CSS3 JavaScript React.js
+- HTML5 CSS3 JavaScript React.js
 
 ### Backend
--PHP Node.js Express.js
+- PHP Node.js Express.js
 
 ### Database
 - MySQL, MongoDb
 
 ### CMS / Platforms
--WordPress
+- WordPress
 
 ### Tools & Technologies
--Git REST API Postman Chrome DevTools Performance Optimization
+- Git REST API Postman Chrome DevTools Performance Optimization
 
 ---
 
