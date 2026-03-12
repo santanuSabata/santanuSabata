@@ -16,28 +16,22 @@
 
 ---
 
-## 🛠 Tech Stack
-- Frontend: React.js, Next.js
-- Backend: Node.js, Express.js, CodeIgniter
-- CMS: WordPress
-- Database: MySQL, MongoDB
-
 ## 💻 Tech Stack
 
-Frontend
-HTML5 CSS3 JavaScript React.js
+### Frontend
+-HTML5 CSS3 JavaScript React.js
 
-Backend
-PHP Node.js Express.js
+### Backend
+-PHP Node.js Express.js
 
-Database
-MySQL
+### Database
+- MySQL, MongoDb
 
-CMS / Platforms
-WordPress
+### CMS / Platforms
+-WordPress
 
-Tools & Technologies
-Git REST API Postman Chrome DevTools Performance Optimization
+### Tools & Technologies
+-Git REST API Postman Chrome DevTools Performance Optimization
 
 ---
 
