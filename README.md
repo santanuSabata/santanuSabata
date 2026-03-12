@@ -22,23 +22,30 @@
 - CMS: WordPress
 - Database: MySQL, MongoDB
 
+## 💻 Tech Stack
+
+Frontend
+HTML5 CSS3 JavaScript React.js
+
+Backend
+PHP Node.js Express.js
+
+Database
+MySQL
+
+CMS / Platforms
+WordPress
+
+Tools & Technologies
+Git REST API Postman Chrome DevTools Performance Optimization
+
 ---
 
 ## 📊 GitHub Stats
 ![Santanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=santanuSabata&show_icons=true&theme=radical)
 
 
-Tech Stack
-AI and Agents
 
-Claude Code — AI coding assistant by Anthropic OpenAI Codex — AI code generation OpenClaw — AI agent platform Python programming language LangChain — LLM application framework
-Frontend and Full Stack
-
-TypeScript Next.js — React framework React — JavaScript UI library Tailwind CSS — utility-first CSS framework Flutter — cross-platform mobile framework shadcn/ui — React component library
-Backend and Data
-
-Node.js — JavaScript runtime PostgreSQL — relational database Redis — in-memory data store GraphQL — API query language
-DevOps and Infrastructure
 
 Docker — containerization platform Kubernetes — container orchestration Amazon Web Services — cloud computing Hetzner — cloud hosting GitHub Actions — CI/CD automation Coolify — self-hosted PaaS
 Compliance and Regulatory
